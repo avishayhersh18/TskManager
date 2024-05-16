@@ -1,6 +1,4 @@
-The Task Management System (TskMng) is a project aimed at efficiently managing tasks in a types-based environment. It incorporates features such as search filters and schedule presentations to enhance productivity and organization.
 
-This project leverages advanced technologies including Client Server connection Javascript Tailwind CSS and MongoDB database to ensure a robust and user-friendly task management experience.
 # TskManager Guide
 ## Local Mode:
 
